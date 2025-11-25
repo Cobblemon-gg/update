@@ -3,7 +3,7 @@
 ## **RELEASE V1.1.76**
 %#%
 ^^^
-![](https://iili.io/fq9ucyQ.webp)
+[![fq9ucyQ.md.webp](https://iili.io/fq9ucyQ.md.webp)](https://freeimage.host/i/fq9ucyQ)
 - Updated to Cobblemon 1.7
 - Updated Pokemon spawns to the offical spawns for all the Pokemon added in 1.7
 - Hyper Training is disabled
