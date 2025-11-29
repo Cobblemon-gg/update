@@ -1,9 +1,36 @@
 ^^^
 %#646397%
-## **RELEASE V1.1.76**
+## **RELEASE V1.1.77**
 %#%
 ^^^
 ![](https://i.postimg.cc/nz8QnyR5/1-7-0-min.png)
+- Updated to Cobblemon 1.7.1
+- Added 31 new megas
+- Added Cobblemon Journey Mounts - 280+ New Rideable Pokemon - https://modrinth.com/datapack/cobblemon-journey-mounts
+- Added 12 Pasture Limit per player - Please remove Pastures which arent used as they're causing a lot of lag especially on ov2
+- All kit cooldowns are now 7 days
+- Pasture Breeding time reduce by 20%
+- Added a Gender sort option to /viewpc - Puts in order of Male, Female then Genderless 
+- Bingo Shiny Upgrade now gives a 1/200 chance of a shiny instead of 1/500
+- Shiny Plushies are now silent, place them down again to remove the sounds and particle
+- Added all Zygarde forms (Use slime blocks on it)
+- Added Floette Eternal (Needed for mega)
+---
+%#497823%
+- Fixed issue where some players couldn't join and some people were timing out
+- Fixed eggs not hatching correctly
+- Fixed eggs not having colours
+- Fixed dungeons and made it work with 1.7
+- Fixed textures for Eelektrik, Stunfisk, Noivern, Dedenne, Croagunk, Noibat, Axew, Haxorus, Druddigon, Eelektross, Shadow Garchomp, Shadow Ninetales, Shadow Sylveon, Halloween Noivern
+- Fixed some riding/mount bugs in some zones
+- Fixed Normal & Shiny Typhlosion plushie texture being the wrong one
+%#%
+
+^^^
+%#646397%
+## **RELEASE V1.1.76**
+%#%
+^^^
 - Updated to Cobblemon 1.7
 - Updated Pokemon spawns to the offical spawns for all the Pokemon added in 1.7
 - Hyper Training is disabled
