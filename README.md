@@ -1,9 +1,25 @@
 ^^^
 %#646397%
-## **RELEASE V1.1.77**
+## **RELEASE V1.1.78**
 %#%
 ^^^
 ![](https://i.postimg.cc/nz8QnyR5/1-7-0-min.png)
+- Reset Nether, End and Resource worlds
+- Reduced breeding time by 10%
+- Added December Monthly Crate
+- Reworked Monthly Crate Rewards
+- Added Energy Root, Vivichoke and Hearty Grains to Crop hoppers
+- Added scout boosters, temporary boost the scout chances for the whole server
+---
+%#497823%
+- Fixed textures for Mienfoo and Mienshao
+%#%
+
+^^^
+%#646397%
+## **RELEASE V1.1.77**
+%#%
+^^^
 - Updated to Cobblemon 1.7.1
 - Added 31 new megas
 - Added Cobblemon Journey Mounts - 280+ New Rideable Pokemon - https://modrinth.com/datapack/cobblemon-journey-mounts
