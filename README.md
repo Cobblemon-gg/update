@@ -1,9 +1,87 @@
 ^^^
 %#646397%
-## **RELEASE V1.1.78**
+## **RELEASE V1.1.83**
 %#%
 ^^^
 ![](https://i.postimg.cc/nz8QnyR5/1-7-0-min.png)
+- Christmas Event Leaderboard
+- Shiny Plushies are now silent
+---
+%#497823%
+- Fixed Keldeo skin for some forms
+- Fixed Croagunk model
+- Fixed Galaxy Pikachu skin
+- Fixed Cyberpunk Dragapult skin
+- Blocked crop hoppers from being used in block stack
+%#%
+
+^^^
+%#646397%
+## **RELEASE V1.1.82**
+%#%
+^^^
+- Server performance tweaks
+---
+%#497823%
+- Fixed Event crashing
+- Fixed Iron Bundle Plushie texture issue
+- Fixed Ho-oh Christmas Skin texture
+- Fixed Regice Christmas Skin
+- Fixed Snowman Backpack positioning
+- Fixed Event Raid pokemon size scaling
+%#%
+
+^^^
+%#646397%
+## **RELEASE V1.1.81**
+%#%
+^^^
+- Nether, End and Resource reset
+---
+%#497823%
+- Fixed event playtime resetting
+%#%
+
+^^^
+%#646397%
+## **RELEASE V1.1.80**
+%#%
+^^^
+- Added Christmas Crate with 24 new christmas skins and more!
+- Added Christmas Raid Event (35k+ Gems to be won!)
+- Added Christmas Plushies to the Plushie Crate
+- Added new cosmetic types for head and body
+- Added MoreCobblemonTweaks
+- Added Cobblemon UI Tweaks
+- Updated Cobblemon Journey Mounts (More mounts and bug fixes!)
+- Vote Party now every 200 votes
+- Added a tick for completed pokemon in /bingo
+- Medicine Items can now be used in the raid events world
+---
+%#497823%
+- Fixed Mega Stone not giving the falinksite
+- Removed Sugar cane from valor
+- Valor can no longer be gained while being a passenger
+%#%
+
+^^^
+%#646397%
+## **RELEASE V1.1.79**
+%#%
+^^^
+- Improved server performance
+---
+%#497823%
+- Removed Rewind and Thanksgiving crate
+- Fixed new megas not having the mega form stats and abilities
+- Fixed /caughtball
+%#%
+
+^^^
+%#646397%
+## **RELEASE V1.1.78**
+%#%
+^^^
 - Reset Nether, End and Resource worlds
 - Reduced breeding time by 10%
 - Added December Monthly Crate
