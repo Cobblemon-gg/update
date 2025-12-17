@@ -4,6 +4,25 @@
 %#%
 ^^^
 ![](https://i.postimg.cc/nz8QnyR5/1-7-0-min.png)
+- Added Event Shop /eventraid shop
+- Added IV Rerolls (Only purchasable via the Event Shop, limited to per user and cant be used on dittos)
+- Added Pokedex Rewards /pokedexrewards 
+- Reworked Normal Raids rewards and /raid shop
+- Added Move Tutor next to the raids portal
+- Added more Pokemon to the raids rotation
+- Added rare chance of Legendary and Shiny Legendaries to crates and pokedex completions
+---
+%#497823%
+- Adjusted previous server performance tweaks (we will be monitoring this)
+- Fixed being able to break crop hoppers without claim permission
+- Fixed hoppers not registering correctly after being placed sometimes
+%#%
+
+^^^
+%#646397%
+## **RELEASE V1.1.83**
+%#%
+^^^
 - Christmas Event Leaderboard
 - Shiny Plushies are now silent
 ---
