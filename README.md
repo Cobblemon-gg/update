@@ -1,9 +1,58 @@
 ^^^
 %#646397%
-## **RELEASE V1.1.84**
+## **RELEASE V1.1.87**
 %#%
 ^^^
 ![](https://i.postimg.cc/nz8QnyR5/1-7-0-min.png)
+- Added a 200 daily welcome karma limit
+- Added /settings shortcut
+- Added toggle sound for new joins and legendary spins
+- Added toggle to vote messages
+---
+%#497823%
+- Welcome now only shows 5 messages
+%#%
+
+^^^
+%#646397%
+## **RELEASE V1.1.86**
+%#%
+^^^
+- Vote rework - Offline voting, more spinner tickets adding to monthly rewards and gems swapped out for gift cards, vote party has been removed and you carry over a maximum of 15 votes
+- Reset nether, end and resource
+- Converted old raid shards to legendary shards
+- /nightvision now just toggles nightvision rather than having to put enable/disable after
+- Added /giftcard & /giftcards to view your gift cards
+- Added huge selection of TR moves to Raid Shop
+- Added /cc shortcut for /clan chat
+- Added /nv shortcut for /nightvision
+- Added /crates command to teleport to crates area
+- Added 3 new emojis (fire, goat and peace)
+- Added more vault icons to pick from
+- Improved UI for /tags and /cosmetic with new sort functions
+---
+%#497823%
+- Christmas Raid Event ended
+%#%
+
+^^^
+%#646397%
+## **RELEASE V1.1.85**
+%#%
+^^^
+- Increased pasture limit to 24
+- Server performance tweaks
+---
+%#497823%
+- Fixed Legendary Randomizer giving same IV pokemon
+- Potential fix for PC issue where some boxes were deleted
+%#%
+
+^^^
+%#646397%
+## **RELEASE V1.1.84**
+%#%
+^^^
 - Added Event Shop /eventraid shop
 - Added IV Rerolls (Only purchasable via the Event Shop, limited to per user and cant be used on dittos)
 - Added Pokedex Rewards /pokedexrewards 
