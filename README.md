@@ -4,6 +4,23 @@
 %#%
 ^^^
 ![](https://i.postimg.cc/nz8QnyR5/1-7-0-min.png)
+- Added 4 AutoSell Chest limit per player (No alts!) All chests need placing down again or they wont work!
+- Added back the ability to place Poke Snacks (Dittos wont spawn from them)
+- Added caps lock filter
+- Increased amount of welcome messages shown
+---
+%#497823%
+- Removed unused settings in /settings
+- Fixed tag sorting in the /tags ui
+- Fixed a rare rank permission inherit issue
+- Reduced daily karma limit from welcome to 100 welcome messages (2500 Karma a day)
+%#%
+
+^^^
+%#646397%
+## **RELEASE V1.1.87**
+%#%
+^^^
 - Added a 200 daily welcome karma limit
 - Added /settings shortcut
 - Added toggle sound for new joins and legendary spins
