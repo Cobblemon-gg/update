@@ -1,9 +1,44 @@
 ^^^
 %#646397%
-## **RELEASE V1.1.88**
+## **RELEASE V1.1.90**
 %#%
 ^^^
 ![](https://i.postimg.cc/nz8QnyR5/1-7-0-min.png)
+- Added /newrealm /new-realm /oldrealm /old-realm /hub commands
+- You will now be transferred to hub if we reboot a proxy
+- Issued all limited time offers to old players who had completed the requirements
+---
+%#497823%
+- Fixed Excadrill Mega texture
+- Fixed zone crashing issue
+- Fixed modpack verification message not showing
+%#%
+
+^^^
+%#646397%
+## **RELEASE V1.1.89**
+%#%
+^^^
+- Added 14 new megas
+- Added Molten Crate
+- Reset nether, end and resource worlds
+- Added daily limit counter to the welcome karma message
+- Only AutoSell Chest owners can now claim the coins
+- AutoSell Chests can now store up to 65k PokeCoins at a time
+- Improved scoreboard visuals when in claims and dungeons
+- Toggle armor slots in /cosmetic
+---
+%#497823%
+- Fixed poke snacks spawning shinies when they shouldn't
+- Fixed buggy text effects
+- Fixed shiny legendary randomizer chat message showing the wrong IVs
+%#%
+
+^^^
+%#646397%
+## **RELEASE V1.1.88**
+%#%
+^^^
 - Added 4 AutoSell Chest limit per player (No alts!) All chests need placing down again or they wont work!
 - Added back the ability to place Poke Snacks (Dittos wont spawn from them)
 - Added caps lock filter
