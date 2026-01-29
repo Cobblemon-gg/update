@@ -1,9 +1,129 @@
 ^^^
 %#646397%
-## **RELEASE V1.1.90**
+## **RELEASE V1.1.95**
 %#%
 ^^^
 ![](https://i.postimg.cc/nz8QnyR5/1-7-0-min.png)
+- Added /newrealm /new-realm /oldrealm /old-realm /hub commands
+- You will now be transferred to hub if we reboot a proxy
+- Issued all limited time offers to old players who had completed the requirements
+---
+%#497823%
+GLOBAL
+- Fixed Dungeons and a bunch of issues relating to it
+- Fixed being able to put cosmetics on Armor Stands
+- Fixed gem shop pack flickering
+- Fixed Dialga & Arceus form evolution
+- Fixed Zygarde shiny texture
+- Fixed Mega Medicham, Mega Drampa, Mega Emboar, Mega Scolipede texture
+- Fixed Lugia, Giratina, Palkia, Articuno, Togekiss, Dragonite, Gengar, Gyarados, Moltres, Zapdos, Mewtwo, Regigigas, Latios, Latias, Furfour, Noivern, Lucario, Orthworm, Cyclizar, Skiddo, Appletun, Gogoat Riding
+
+NEW REALM
+- Fixed some bugs with Catch Combo spawning and moves
+- Fixed berry clan challenge tasks
+- Fixed being able to use the same pokemon across multiple stations
+%#%
+
+^^^
+%#646397%
+## **RELEASE V1.1.94**
+%#%
+^^^
+GLOBAL
+- Reset nether, end and resource with the new biomes and structures
+- Added welcome message toggle in /settings
+- Added playtime bundles
+- Added a forms for majority of pokemon, evolution items found in /raid shop
+- Improved hover move information
+- Excessive caps will ignore messages with 4 or less characters 
+
+NEW REALM
+- Pokemon Evolutions now count towards pokedex rewards
+- Added size up and down vouchers in all the crates
+- Stations no longer break instantly 
+
+PACK
+- Added Moar Concrete 
+- Added Cobblemon Additions (Full pokemon villages/cities)
+- Added Oh The Biomes We've Gone (Loads of new biomes, hundreds of new blocks)
+- Added Mouse Tweaks
+- Updated Dungeons Arise (New structures)
+---
+%#497823%
+GLOBAL
+- Fixed riding desync issue for a huge amount of pokemon
+- Fixed Tapu lele, fini, bulu and koko shiny texture
+- Fixed Mega Skarmory texture
+- Fixed Toxicroak texture
+- Fixed Fraxure texture
+- Fixed Tynamo texture
+
+NEW REALM
+- Fixed clan challenges not rotating and saving correctly
+- Fixed stations trader data not saving
+%#%
+
+^^^
+%#646397%
+## **RELEASE V1.1.93**
+%#%
+^^^
+GLOBAL
+- Claiming an unclaimed vote will remove the unclaimed vote from BOTH realms! Pick wisely on the realm you wish to claim it from!
+- Join and Leave flag now only shows when joining/leaving the server, not swapping zones
+- Added sound toggle in /settings for trivia events
+
+NEW REALM
+- Raids are now every 3 hours
+- You can no longer fish while in battle and it still count towards the clan challenge
+- Reduced price of Claims
+- Reduced price of Bingo Refresh and Bingo Shiny Upgrade
+---
+%#497823%
+GLOBAL
+- Fixed Houndoom texture issue
+- Fixed Brambleghast crash issue
+
+NEW REALM
+- Fixed Discord linking
+%#%
+
+^^^
+%#646397%
+## **RELEASE V1.1.92**
+%#%
+^^^
+GLOBAL
+- Voting issue fixed (hopefully, will lower gift card streak amount once fully confirmed)
+- Only the owner of the autosell chest can now break it
+- Added 1.2m daily pokecoin claim limit from autosell chests
+- You will now receive a popup when the server is rebooting to make it clearer
+
+NEW REALM
+- Changed 7 day weekly challenge to 3 day clan challenge
+- Added size sorting in /viewpc
+---
+%#497823%
+GLOBAL
+- Fixed PokeSpinner daily challenge not changing
+- Fixed Plushie Crate and Megastone Crate not letting you spin when you have a ticket
+%#%
+
+^^^
+%#646397%
+## **RELEASE V1.1.91**
+%#497823%
+NEW REALM
+- Fixed stations dupe
+- Fixed /kit pokemon for legend rank
+- Fixed stations not dropping the block when broken
+%#%
+
+^^^
+%#646397%
+## **RELEASE V1.1.90**
+%#%
+^^^
 - Added /newrealm /new-realm /oldrealm /old-realm /hub commands
 - You will now be transferred to hub if we reboot a proxy
 - Issued all limited time offers to old players who had completed the requirements
