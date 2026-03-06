@@ -1,9 +1,183 @@
 ^^^
 %#646397%
-## **RELEASE V1.1.95**
+## **RELEASE V1.2.4**
 %#%
 ^^^
 ![](https://i.postimg.cc/nz8QnyR5/1-7-0-min.png)
+%#497823%
+GLOBAL
++ Full rework on the punishment, vote and discord system for easier global/cross realm handling
++ Added toggle in /settings for join and leave messages
++ Added starter guide quests to help new players and give them direction on starting out/what to do
++ Added cosmetic preview to the /cosmetic ui
++ Added aura preview to /skindex
+- Fixed various auction issues causing pokecoins being lost
+- Fixed being able to use pistons to gain valor by moving placed blocks
+- Fixed being able to use pistons to push blocks into other peoples claims
+- Fixed claims sometimes going over the max claims amount
+- Fixed being able to skin swap to complete skin dex entries
+%#%
+
+^^^
+%#646397%
+## **RELEASE V1.2.3**
+%#%
+^^^
+%#497823%
+GLOBAL
++ Added Chat Filter
++ Added Size Up and Down vouchers to /karmashop
++ Added /skindex - View old skin lines and collect exclusive rewards for new skin lines
+%#%
+
+^^^
+%#646397%
+## **RELEASE V1.2.2**
+%#%
+^^^
+%#497823%
+GLOBAL
++ Nether, Resource and End reset
++ Added sound toggles for reaction and unscramble chat games
++ Reviving fossils now count towards caught on pokedex
++ You can now use /home in dungeons
+- Removed player join/leave messages
+- Reduced Tier 4 and Tier 5 station requirements
+- Fixed /scout text formatting
+- Fixed mouse in /viewpc resetting after deleting a pokemon
+- Fixed Aromatisse model issues
+%#%
+
+^^^
+%#646397%
+## **RELEASE V1.2.1**
+%#%
+^^^
+%#497823%
+GLOBAL
++ Harvest apricorns now count towards gym objectives instead of having to break them
+- Fixed pokemon moving around in chests/being deleted
+- Fixed claims needing chunks reloading to update permission changes
+- Fixed /viewpc confirmation resetting mouse position
+- Fixed Triva not showing all possible answers
+- Fixed fireballs killing dungeon mobs sometimes not crediting you with the kill
+- Fixed dungeon bosses sometimes respawning
+- Fixed Mr Rime animation crash
+- Fixed Brambleghast animation crash
+- Fixed Mega Feraligatr texture
+- Fixed Mega Chandelure texture
+- Fixed Iron Valiant valentines skin texture
+- Fixed Raging Bolt shiny texture
+- Reduced valor from ranked pvp against pokemon
+%#%
+
+^^^
+%#646397%
+## **RELEASE V1.2.0**
+%#%
+^^^
+%#497823%
+GLOBAL
++ Updated the cobblemon.gg website
++ Added tier 4 and 5 stations
++ Added valor for completing dungeon floors
++ Added auto player name fills when adding people to claims
+- Fixed crash when opening the pc from the stations menu
+- Fixed wrong season rewards displayed for ranked
+- Fixed ranked pvp refreshing opponents when it shouldn't
+- Fixed vote claiming not taking unclaimed votes from the other realm
+- Fixed claim purchase popup not showing the total price
+- Fixed mega gardevoir valentines skin texture
+%#%
+
+^^^
+%#646397%
+## **RELEASE V1.1.99**
+%#%
+^^^
+%#497823%
+GLOBAL
++ Added Ranked PvP
++ Added Battle Tower
++ Full Claims overhaul
++ Added mushroom blocks to the shop
++ Scout pokemon are now invulnerable
+- Fixed dungeon items being unusable if you're level 0
+- Fixed GG in clan chat
+- Fixed aqua tauros texture
+- Fixed midnight shiny lycanroc
+- Fixed /viewpc menu not reopening after deleting pokemon
+- Fixed missing item texture for mystic gardens
+- Fixed client side crashes
+- Removed Player Gyms
+
+OLD REALM
++ Added size sorting to /viewpc
+%#%
+
+^^^
+%#646397%
+## **RELEASE V1.1.98**
+%#%
+^^^
+%#497823%
+GLOBAL
++ Resource, Nether and End reset
++ Improved reboot system and connecting to servers
++ Saying welcome and gg in clan chat will now still trigger
+- Fixed zone crash issue
+- Fixed Annihilape, Cinderace and Oinkologne not having a damage multiplier
+- Fixed Lunar New Year raticate model not having the armour
+- Fixed Slurpuff plushie texture
+- Fixed Necrozma fusion revert
+- Fixed Mega Froslass texture
+- Fixed Gem shop purchase message
+- Fixed /viewpc closing the menu after converting a pokemon to a capsule
+%#%
+
+^^^
+%#646397%
+## **RELEASE V1.1.97**
+%#%
+^^^
+%#497823%
+GLOBAL
++ Lunar New Year event started, 24 skins, raid to earn gift cards and tags, daily login rewards with /event
++ Added confirmation uis when claim cosmetics, tags, pokemon skins and instant monthly crate rewards
++ Added /swapskin to transfer skins to another pokemon for a fee
++ Added /legendaryreroll to reroll 3 legendaries into 1 random legendary
++ Added Shiny Potions which can turn a pokemon into a shiny (Old realm makes the pokemon untradeable)
++ Adjusted vote reward numbers for this month due to vote issues and less days
+- Fixed a crash issue which sometimes happened when placing stations
+- Fixed Poke Snacks spawning shiny pokemon
+
+NEW REALM
+- Fixed an issue where catch combo extra spawn sometimes spawned in a block
+
+OLD REALM
++ Added pokemon sizes to old realm
+%#%
+
+^^^
+%#646397%
+## **RELEASE V1.1.96**
+%#%
+^^^
+%#497823%
+GLOBAL
+- Fixed Raid Shop items not going into storage when having a full inventory
+- Fixed Dungeon level on scoreboard showing the wrong level (Now shows what you have claimed up to in /dlevels)
+
+NEW REALM
+- Fixed Combo Catch replacing everyone pokemon spawn, instead of spawning an additional pokemon when one spawns
+- Fixed Combo Catch spawning in Dungeons
+%#%
+
+^^^
+%#646397%
+## **RELEASE V1.1.95**
+%#%
+^^^
 - Added /newrealm /new-realm /oldrealm /old-realm /hub commands
 - You will now be transferred to hub if we reboot a proxy
 - Issued all limited time offers to old players who had completed the requirements
