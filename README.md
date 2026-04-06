@@ -1,9 +1,135 @@
 ^^^
 %#646397%
-## **RELEASE V1.2.4**
+## **RELEASE V1.2.10**
 %#%
 ^^^
 ![](https://i.postimg.cc/nz8QnyR5/1-7-0-min.png)
+%#497823%
+GLOBAL
++ Reset the resource, nether and end
++ Full auction overhaul
++ Live chat channels added to discord and nitro boosters can speak via discord to ingame
++ Karma shop no longer gives a paper note for monthly crate and spinner, it gives directly when purchasing
++ Display cases are now using the chest access claim permission instead of use
++ Plushies now have smaller hitboxes
++ Ranked rewards and shop is now setup
++ Battletower rewards and shop is now setup
+- Fixed a rare crash with the emoji autofill
+- Fixed being able to use block stack on poke snacks
+- Fixed claim map bug when zooming out and the claim disappearing
+- Fixed TM and TR colours
+%#%
+
+^^^
+%#646397%
+## **RELEASE V1.2.9**
+%#%
+^^^
+%#497823%
+GLOBAL
++ Added search bar to /skindex and cosmetic preview
++ Added forms drop down menu to /skindex to view form variations if they have it such as mega
++ Added tab complete for emojis
++ Added /warp arena for the new arena area for tournaments (Built by ElaineLove and GetJukedIdiot)
++ Added valor reward scaling based on amount of stars in dungeons
++ Added a fully animated Regigigas
++ New Wo-Chien model (fully animated & rideable)
++ New Models & some Animations for all Necrozma Forms
++ New Models & Animations for Reshiram & Kyurem
++ When downloading the new texture pack the old one will be removed automatically
++ Server reboots now no longer count for losses in ranked and battle tower
++ Event raid bosses will no longer repeat the same boss in a row
++ Reduce /caughtball price on new realm to 3k
+- Fixed the pokemon lock for skin event raid. Pokemon cant be used by another person for 3 days
+- Fixed mega evolution not applying stats to the pokemon sometimes
+- Fixed taking a megastone off a pokemon thats in mega form and then battling breaking
+- Fixed pc and party data loss issue
+- Fixed valor not being received from dungeon completions
+- Fixed multiple chat games being active at once
+- Fixed pc box names and wallpapers not saving
+- Fixed st patricks collector tag
+- Fixed pokedex tag rewards giving directly instead of the note
+- Fixed toggle scoreboard not working when switching zones
+- Fixed the outline on max iv sometimes bugging out
+- Fixed the rainbow lines on the screen sometimes showing based on screen size
+- Fixed shiny charizard mega x texture
+- Fixed st patricks bow texture
+%#%
+
+^^^
+%#646397%
+## **RELEASE V1.2.8**
+%#%
+^^^
+%#497823%
+GLOBAL
++ Huge performance increase across all realms
++ Chat games now only shows when the winner answers the question and blocks answers for a few seconds after
++ Added /clan info <clan name/player name>
++ Added event boss rotation timer infront of the boss
++ Stats and advancements now work across zones
+- Fixed resource world crashing when scout spawns
+- Fixed buying a station not going to storage when having a full inventory
+- Fixed stations ui slots for tier 4
+- Fixed Absol Z Mega stone not in the randomizer
+- Fixed scouts not being removed from /scout in resource zone
+%#%
+
+^^^
+%#646397%
+## **RELEASE V1.2.7**
+%#%
+^^^
+%#497823%
+GLOBAL
++ Added caught ascending to pokedex ui in the pokedex rewards ui
+- Removed Pokeball loot
+- Fixed chi yu st patricks skin
+- Fixed toxtricity st patricks skin in t pose
+- Fixed shaymin skye form st patricks skin
+- Fixed event raid not counting damage for the last move
+- Fixed dittos and shiny spawns from lures
+- Fixed event raid shop limits not reset from previous event
+- Fixed event raid damage boss bar
+- Fixed event raid boss rotation
+- Fixed using perish song in event raid
+- Fixed normal raid health not going down
+- Fixed shadow steelix, rayquaza and mega rayqaza skins
+%#%
+
+^^^
+%#646397%
+## **RELEASE V1.2.6**
+%#%
+^^^
+%#497823%
+GLOBAL
++ Trainer Cards are now no longer hidden, you can set your favorite pokemon to show off!
++ Limited GG messages shown to 40
++ Added Caught Descending to pokedex ui for pokedex rewards
+- Fixed Battle Tower and Ranked reward payouts
+- Fixed Mr Rime texture
+%#%
+
+^^^
+%#646397%
+## **RELEASE V1.2.5**
+%#%
+^^^
+%#497823%
+GLOBAL
++ Reset nether, resource and end
++ Performance Improvements/Tweaks
++ Added /megastonereroll
+- Fixed voting streak rewards
+- Fixed Rotom stats
+%#%
+
+^^^
+%#646397%
+## **RELEASE V1.2.4**
+%#%
+^^^
 %#497823%
 GLOBAL
 + Full rework on the punishment, vote and discord system for easier global/cross realm handling
