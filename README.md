@@ -640,7 +640,7 @@ NEW REALM
 ^^^
 - Updated to Cobblemon 1.7.1
 - Added 31 new megas
-- Added Cobblemon Journey Mounts - 280+ New Rideable Pokemon - https://modrinth.com/datapack/cobblemon-journey-mounts
+- Added Cobblemon Journey Mounts - 280+ New Rideable Pokemon - [Link](https://modrinth.com/datapack/cobblemon-journey-mounts)
 - Added 12 Pasture Limit per player - Please remove Pastures which arent used as they're causing a lot of lag especially on ov2
 - All kit cooldowns are now 7 days
 - Pasture Breeding time reduce by 20%
